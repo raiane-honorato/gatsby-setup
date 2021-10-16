@@ -14,9 +14,26 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "babel-plugin-styled-components": "^1.13.2",
     "gatsby": "^3.13.1",
+    "gatsby-plugin-canonical-urls": "^3.14.0",
+    "gatsby-plugin-google-analytics": "^3.14.0",
+    "gatsby-plugin-manifest": "^3.14.0",
+    "gatsby-plugin-nprogress": "^3.14.0",
+    "gatsby-plugin-offline": "^4.14.0",
+    "gatsby-plugin-page-creator": "^3.14.0",
+    "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
+    "gatsby-plugin-react-helmet": "^4.14.0",
+    "gatsby-plugin-sharp": "^3.14.1",
+    "gatsby-plugin-sitemap": "^4.10.0",
+    "gatsby-plugin-styled-components": "^4.14.0",
+    "gatsby-transformer-remark": "^4.11.0",
+    "gatsby-transformer-sharp": "^3.14.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "sharp": "^0.29.1",
+    "styled-components": "^5.3.1"
   },
   "devDependencies": {
     "prettier": "2.4.1"
